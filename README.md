@@ -1,1 +1,1 @@
-testing git from terminal
+testing git commands from terminal
